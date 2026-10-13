@@ -1,0 +1,1187 @@
+{
+  "days": {
+    "2026-08-03": {
+      "runs": [
+        {
+          "started_at": "2026-08-03T23:42:50+00:00",
+          "finished_at": "2026-08-04T00:03:51+00:00",
+          "duration_s": 1261,
+          "fetched": 18712,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17615,
+        "cardmarket_only": 1825,
+        "tcgplayer_only": 386,
+        "none": 1237
+      }
+    },
+    "2026-08-04": {
+      "runs": [
+        {
+          "started_at": "2026-08-04T11:30:05+00:00",
+          "finished_at": "2026-08-04T11:53:43+00:00",
+          "duration_s": 1418,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17615,
+        "cardmarket_only": 1825,
+        "tcgplayer_only": 386,
+        "none": 1237
+      },
+      "upstream_date": "2026-08-04",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-05": {
+      "runs": [
+        {
+          "started_at": "2026-08-05T11:30:00+00:00",
+          "finished_at": "2026-08-05T11:53:38+00:00",
+          "duration_s": 1418,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17616,
+        "cardmarket_only": 1824,
+        "tcgplayer_only": 386,
+        "none": 1237
+      },
+      "upstream_date": "2026-08-05",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-06": {
+      "runs": [
+        {
+          "started_at": "2026-08-06T11:30:00+00:00",
+          "finished_at": "2026-08-06T11:53:38+00:00",
+          "duration_s": 1418,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17617,
+        "cardmarket_only": 1823,
+        "tcgplayer_only": 386,
+        "none": 1237
+      },
+      "upstream_date": "2026-08-06",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-07": {
+      "runs": [
+        {
+          "started_at": "2026-08-07T11:30:05+00:00",
+          "finished_at": "2026-08-07T11:53:43+00:00",
+          "duration_s": 1419,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17617,
+        "cardmarket_only": 1823,
+        "tcgplayer_only": 386,
+        "none": 1237
+      },
+      "upstream_date": "2026-08-07",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-08": {
+      "runs": [
+        {
+          "started_at": "2026-08-08T11:38:09+00:00",
+          "finished_at": "2026-08-08T17:42:25+00:00",
+          "duration_s": 1475,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17617,
+        "cardmarket_only": 1823,
+        "tcgplayer_only": 387,
+        "none": 1236
+      },
+      "upstream_date": "2026-08-08",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-09": {
+      "runs": [
+        {
+          "started_at": "2026-08-09T11:41:03+00:00",
+          "finished_at": "2026-08-09T15:53:39+00:00",
+          "duration_s": 1454,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17617,
+        "cardmarket_only": 1823,
+        "tcgplayer_only": 387,
+        "none": 1236
+      },
+      "upstream_date": "2026-08-09",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-10": {
+      "runs": [
+        {
+          "started_at": "2026-08-10T11:47:03+00:00",
+          "finished_at": "2026-08-10T13:26:36+00:00",
+          "duration_s": 1420,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17617,
+        "cardmarket_only": 1823,
+        "tcgplayer_only": 387,
+        "none": 1236
+      },
+      "upstream_date": "2026-08-10",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-11": {
+      "runs": [
+        {
+          "started_at": "2026-08-11T11:38:53+00:00",
+          "finished_at": "2026-08-11T15:14:12+00:00",
+          "duration_s": 1425,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17618,
+        "cardmarket_only": 1822,
+        "tcgplayer_only": 387,
+        "none": 1236
+      },
+      "upstream_date": "2026-08-11",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-12": {
+      "runs": [
+        {
+          "started_at": "2026-08-12T11:40:15+00:00",
+          "finished_at": "2026-08-12T13:41:25+00:00",
+          "duration_s": 1421,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17618,
+        "cardmarket_only": 1822,
+        "tcgplayer_only": 387,
+        "none": 1236
+      },
+      "upstream_date": "2026-08-12",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-13": {
+      "runs": [
+        {
+          "started_at": "2026-08-13T11:42:23+00:00",
+          "finished_at": "2026-08-13T12:06:06+00:00",
+          "duration_s": 1423,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17619,
+        "cardmarket_only": 1821,
+        "tcgplayer_only": 390,
+        "none": 1233
+      },
+      "upstream_date": "2026-08-13",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-14": {
+      "runs": [
+        {
+          "started_at": "2026-08-14T11:30:54+00:00",
+          "finished_at": "2026-08-14T14:30:09+00:00",
+          "duration_s": 1448,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17619,
+        "cardmarket_only": 1821,
+        "tcgplayer_only": 390,
+        "none": 1233
+      },
+      "upstream_date": "2026-08-14",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-15": {
+      "runs": [
+        {
+          "started_at": "2026-08-15T11:40:45+00:00",
+          "finished_at": "2026-08-15T15:54:15+00:00",
+          "duration_s": 1479,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17619,
+        "cardmarket_only": 1821,
+        "tcgplayer_only": 390,
+        "none": 1233
+      },
+      "upstream_date": "2026-08-15",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-16": {
+      "runs": [
+        {
+          "started_at": "2026-08-16T11:44:20+00:00",
+          "finished_at": "2026-08-16T17:56:48+00:00",
+          "duration_s": 1436,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17619,
+        "cardmarket_only": 1821,
+        "tcgplayer_only": 390,
+        "none": 1233
+      },
+      "upstream_date": "2026-08-16",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-17": {
+      "runs": [
+        {
+          "started_at": "2026-08-17T11:37:04+00:00",
+          "finished_at": "2026-08-17T19:24:09+00:00",
+          "duration_s": 1583,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17619,
+        "cardmarket_only": 1821,
+        "tcgplayer_only": 394,
+        "none": 1229
+      },
+      "upstream_date": "2026-08-17",
+      "upstream_share": 0.9998,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-18": {
+      "runs": [
+        {
+          "started_at": "2026-08-18T11:43:36+00:00",
+          "finished_at": "2026-08-18T22:45:19+00:00",
+          "duration_s": 1542,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17619,
+        "cardmarket_only": 1821,
+        "tcgplayer_only": 394,
+        "none": 1229
+      },
+      "upstream_date": "2026-08-18",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-19": {
+      "runs": [
+        {
+          "started_at": "2026-08-19T11:39:19+00:00",
+          "finished_at": "2026-08-19T16:30:59+00:00",
+          "duration_s": 1519,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17620,
+        "cardmarket_only": 1820,
+        "tcgplayer_only": 396,
+        "none": 1227
+      },
+      "upstream_date": "2026-08-19",
+      "upstream_share": 0.9997,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-20": {
+      "runs": [
+        {
+          "started_at": "2026-08-20T11:38:36+00:00",
+          "finished_at": "2026-08-20T13:56:49+00:00",
+          "duration_s": 1428,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17620,
+        "cardmarket_only": 1820,
+        "tcgplayer_only": 396,
+        "none": 1227
+      },
+      "upstream_date": "2026-08-20",
+      "upstream_share": 0.9996,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-21": {
+      "runs": [
+        {
+          "started_at": "2026-08-21T11:40:36+00:00",
+          "finished_at": "2026-08-21T14:45:14+00:00",
+          "duration_s": 1592,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17620,
+        "cardmarket_only": 1820,
+        "tcgplayer_only": 396,
+        "none": 1227
+      },
+      "upstream_date": "2026-08-21",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-22": {
+      "runs": [
+        {
+          "started_at": "2026-08-22T11:41:11+00:00",
+          "finished_at": "2026-08-22T18:29:14+00:00",
+          "duration_s": 1495,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17620,
+        "cardmarket_only": 1820,
+        "tcgplayer_only": 396,
+        "none": 1227
+      },
+      "upstream_date": "2026-08-21",
+      "upstream_share": 0.9831,
+      "stale_upstream": true,
+      "mixed_upstream": false
+    },
+    "2026-08-23": {
+      "runs": [
+        {
+          "started_at": "2026-08-23T11:32:43+00:00",
+          "finished_at": "2026-08-23T14:47:34+00:00",
+          "duration_s": 1453,
+          "fetched": 21063,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21063,
+      "expected": 21064,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 17620,
+        "cardmarket_only": 1820,
+        "tcgplayer_only": 396,
+        "none": 1227
+      },
+      "upstream_date": "2026-08-23",
+      "upstream_share": 0.9995,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-24": {
+      "runs": [
+        {
+          "started_at": "2026-08-24T11:44:42+00:00",
+          "finished_at": "2026-08-24T15:34:52+00:00",
+          "duration_s": 1481,
+          "fetched": 21044,
+          "status": "partial",
+          "exit_code": 1,
+          "trigger": "scheduled"
+        },
+        {
+          "started_at": "2026-08-24T16:39:29+00:00",
+          "finished_at": "2026-08-24T16:49:32+00:00",
+          "duration_s": 29,
+          "fetched": 121,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18410,
+        "cardmarket_only": 1669,
+        "tcgplayer_only": 368,
+        "none": 718
+      },
+      "upstream_date": "2026-08-24",
+      "upstream_share": 1.0,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-08-25": {
+      "runs": [
+        {
+          "started_at": "2026-08-25T11:44:53+00:00",
+          "finished_at": "2026-08-25T13:12:11+00:00",
+          "duration_s": 1427,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18154,
+        "cardmarket_only": 1664,
+        "tcgplayer_only": 633,
+        "none": 714
+      },
+      "upstream_date": "2026-08-24",
+      "upstream_share": 1.0,
+      "stale_upstream": true,
+      "mixed_upstream": false
+    },
+    "2026-08-26": {
+      "runs": [
+        {
+          "started_at": "2026-08-26T11:43:33+00:00",
+          "finished_at": "2026-08-26T13:48:32+00:00",
+          "duration_s": 1428,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18155,
+        "cardmarket_only": 1663,
+        "tcgplayer_only": 634,
+        "none": 713
+      },
+      "upstream_date": "2026-08-25",
+      "upstream_share": 1.0,
+      "stale_upstream": true,
+      "mixed_upstream": false
+    },
+    "2026-08-27": {
+      "runs": [
+        {
+          "started_at": "2026-08-27T11:32:58+00:00",
+          "finished_at": "2026-08-27T13:35:31+00:00",
+          "duration_s": 1453,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18156,
+        "cardmarket_only": 1662,
+        "tcgplayer_only": 634,
+        "none": 713
+      },
+      "upstream_date": "2026-08-26",
+      "upstream_share": 0.9999,
+      "stale_upstream": true,
+      "mixed_upstream": false
+    },
+    "2026-08-28": {
+      "runs": [
+        {
+          "started_at": "2026-08-28T11:45:21+00:00",
+          "finished_at": "2026-08-28T14:08:12+00:00",
+          "duration_s": 1429,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18157,
+        "cardmarket_only": 1661,
+        "tcgplayer_only": 634,
+        "none": 713
+      },
+      "upstream_date": "2026-08-27",
+      "upstream_share": 0.9998,
+      "stale_upstream": true,
+      "mixed_upstream": false
+    },
+    "2026-08-31": {
+      "runs": [
+        {
+          "started_at": "2026-08-31T11:30:29+00:00",
+          "finished_at": "2026-08-31T13:43:18+00:00",
+          "duration_s": 1457,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        },
+        {
+          "started_at": "2026-09-01T00:50:15+00:00",
+          "finished_at": "2026-09-01T00:50:28+00:00",
+          "duration_s": 14,
+          "fetched": 0,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "manual"
+        },
+        {
+          "started_at": "2026-09-01T13:02:59+00:00",
+          "finished_at": "2026-09-01T14:20:01+00:00",
+          "duration_s": 638,
+          "fetched": 9321,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18158,
+        "cardmarket_only": 1660,
+        "tcgplayer_only": 636,
+        "none": 711
+      },
+      "upstream_date": "2026-08-31",
+      "upstream_share": 0.5568,
+      "stale_upstream": false,
+      "mixed_upstream": true
+    },
+    "2026-09-01": {
+      "runs": [
+        {
+          "started_at": "2026-09-01T22:03:30+00:00",
+          "finished_at": "2026-09-02T04:19:54+00:00",
+          "duration_s": 1527,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18154,
+        "cardmarket_only": 1664,
+        "tcgplayer_only": 631,
+        "none": 716
+      },
+      "upstream_date": "2026-09-01",
+      "upstream_share": 1.0,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-09-02": {
+      "runs": [
+        {
+          "started_at": "2026-09-03T00:04:28+00:00",
+          "finished_at": "2026-09-03T00:28:13+00:00",
+          "duration_s": 1425,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18154,
+        "cardmarket_only": 1664,
+        "tcgplayer_only": 631,
+        "none": 716
+      },
+      "upstream_date": "2026-09-02",
+      "upstream_share": 1.0,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-09-03": {
+      "runs": [
+        {
+          "started_at": "2026-09-03T22:02:03+00:00",
+          "finished_at": "2026-09-04T00:49:08+00:00",
+          "duration_s": 2560,
+          "fetched": 21165,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21166,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18154,
+        "cardmarket_only": 1665,
+        "tcgplayer_only": 631,
+        "none": 715
+      },
+      "upstream_date": "2026-09-03",
+      "upstream_share": 1.0,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-09-04": {
+      "runs": [
+        {
+          "started_at": "2026-09-05T00:05:11+00:00",
+          "finished_at": "2026-09-05T00:36:48+00:00",
+          "duration_s": 1530,
+          "fetched": 21167,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21167,
+      "expected": 21168,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18440,
+        "cardmarket_only": 1401,
+        "tcgplayer_only": 624,
+        "none": 702
+      },
+      "upstream_date": "2026-09-04",
+      "upstream_share": 1.0,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-09-05": {
+      "runs": [
+        {
+          "started_at": "2026-09-05T22:01:29+00:00",
+          "finished_at": "2026-09-05T22:20:12+00:00",
+          "duration_s": 653,
+          "fetched": 625,
+          "status": "partial",
+          "exit_code": 1,
+          "trigger": "scheduled"
+        },
+        {
+          "started_at": "2026-09-05T23:19:24+00:00",
+          "finished_at": "2026-09-05T23:42:29+00:00",
+          "duration_s": 1384,
+          "fetched": 20540,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "manual"
+        }
+      ],
+      "status": "complete",
+      "cards": 21165,
+      "expected": 21168,
+      "permanent_404": [
+        "exu-%3F",
+        "gym1-119",
+        "gym1-120"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18440,
+        "cardmarket_only": 1401,
+        "tcgplayer_only": 623,
+        "none": 701
+      },
+      "upstream_date": "2026-09-05",
+      "upstream_share": 1.0,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    },
+    "2026-09-12": {
+      "runs": [
+        {
+          "started_at": "2026-09-13T16:31:02+00:00",
+          "finished_at": "2026-09-13T17:21:27+00:00",
+          "duration_s": 3025,
+          "fetched": 21167,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21167,
+      "expected": 21168,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18447,
+        "cardmarket_only": 1395,
+        "tcgplayer_only": 621,
+        "none": 704
+      },
+      "upstream_date": "2026-09-13",
+      "upstream_share": 1.0,
+      "stale_upstream": true,
+      "mixed_upstream": false
+    },
+    "2026-09-19": {
+      "runs": [
+        {
+          "started_at": "2026-09-19T22:01:18+00:00",
+          "finished_at": "2026-09-20T17:07:33+00:00",
+          "duration_s": 1710,
+          "fetched": 21355,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21355,
+      "expected": 21356,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18448,
+        "cardmarket_only": 1402,
+        "tcgplayer_only": 624,
+        "none": 881
+      },
+      "upstream_date": "2026-09-19",
+      "upstream_share": 0.9255,
+      "stale_upstream": false,
+      "mixed_upstream": true
+    },
+    "2026-09-26": {
+      "runs": [
+        {
+          "started_at": "2026-09-26T22:00:53+00:00",
+          "finished_at": "2026-09-27T18:08:23+00:00",
+          "duration_s": 1570,
+          "fetched": 21355,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21355,
+      "expected": 21356,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18449,
+        "cardmarket_only": 1401,
+        "tcgplayer_only": 625,
+        "none": 880
+      },
+      "upstream_date": "2026-09-26",
+      "upstream_share": 0.9363,
+      "stale_upstream": false,
+      "mixed_upstream": true
+    },
+    "2026-10-03": {
+      "runs": [
+        {
+          "started_at": "2026-10-03T22:07:51+00:00",
+          "finished_at": "2026-10-05T00:40:03+00:00",
+          "duration_s": 3841,
+          "fetched": 21355,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21355,
+      "expected": 21356,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18450,
+        "cardmarket_only": 1400,
+        "tcgplayer_only": 628,
+        "none": 877
+      },
+      "upstream_date": "2026-10-04",
+      "upstream_share": 0.667,
+      "stale_upstream": true,
+      "mixed_upstream": true
+    },
+    "2026-10-10": {
+      "runs": [
+        {
+          "started_at": "2026-10-10T22:02:11+00:00",
+          "finished_at": "2026-10-11T16:13:10+00:00",
+          "duration_s": 1495,
+          "fetched": 21355,
+          "status": "complete",
+          "exit_code": 0,
+          "trigger": "scheduled"
+        }
+      ],
+      "status": "complete",
+      "cards": 21355,
+      "expected": 21356,
+      "permanent_404": [
+        "exu-%3F"
+      ],
+      "failed_cards": [],
+      "failed_sets": [],
+      "coverage": {
+        "full": 18450,
+        "cardmarket_only": 1400,
+        "tcgplayer_only": 631,
+        "none": 874
+      },
+      "upstream_date": "2026-10-10",
+      "upstream_share": 0.9565,
+      "stale_upstream": false,
+      "mixed_upstream": false
+    }
+  },
+  "latest_date": "2026-10-10",
+  "latest_age_days": 0
+}
